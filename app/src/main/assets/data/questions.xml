@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Questions>
+	<Question Correct="4" Id="1">
+		<Text>What is the longest river in the world?</Text>
+		<Choice>Amazon</Choice>
+		<Choice>Yangtze</Choice>
+		<Choice>Mississippi</Choice>
+		<Choice>Nile</Choice>
+	</Question>
+	
+	<Question Correct="2" Id="2">
+		<Text>What is the tallest mountain in the world?</Text>
+		<Choice>K2</Choice>
+		<Choice>Everest</Choice>
+		<Choice>Aconcagua</Choice>
+		<Choice>McKinley</Choice>
+	</Question>
+	
+	<Question Correct="1" Id="3">
+		<Text>What is the official language of Brazil?</Text>
+		<Choice>Portuguese</Choice>
+		<Choice>German</Choice>
+		<Choice>Spanish</Choice>
+		<Choice>Brasilian</Choice>
+	</Question>
+
+    <Question Correct="4" Id="4">
+        <Text>Which of the following is a landlocked country in South America?</Text>
+        <Choice>Brazil</Choice>
+        <Choice>Colombia</Choice>
+        <Choice>Ecuador</Choice>
+        <Choice>Bolivia</Choice>
+    </Question>
+
+    <Question Correct="3" Id="5">
+        <Text>What economic activity plays the largest role in the economy of the Bahamas?</Text>
+        <Choice>Oil-Refining</Choice>
+        <Choice>Manufacturing</Choice>
+        <Choice>Tourism</Choice>
+        <Choice>Finance</Choice>
+    </Question>
+
+    <Question Correct="4" Id="6">
+        <Text>Parliament Hill, site of Canadian national government buildings, is in which city?</Text>
+        <Choice>Toronto</Choice>
+        <Choice>Montreal</Choice>
+        <Choice>Vancouver</Choice>
+        <Choice>Ottawa</Choice>
+    </Question>
+
+    <Question Correct="1" Id="7">
+        <Text>Which country has the world's largest Muslim population?</Text>
+        <Choice>Indonesia</Choice>
+        <Choice>Iran</Choice>
+        <Choice>Egypt</Choice>
+        <Choice>Saudi Arabia</Choice>
+    </Question>
+
+    <Question Correct="4" Id="8">
+        <Text>Explorers Amundsen, Scott, and Byrd all explored which continent?</Text>
+        <Choice>Australia</Choice>
+        <Choice>Africa</Choice>
+        <Choice>South America</Choice>
+        <Choice>Antarctica</Choice>
+    </Question>
+
+    <Question Correct="1" Id="9">
+        <Text>The Negev Desert is located in which country?</Text>
+        <Choice>Israel</Choice>
+        <Choice>Australia</Choice>
+        <Choice>Iraq</Choice>
+        <Choice>Iran</Choice>
+    </Question>
+
+    <Question Correct="2" Id="10">
+        <Text>What is the largest island in the world?</Text>
+        <Choice>Cuba</Choice>
+        <Choice>Greenland</Choice>
+        <Choice>Iceland</Choice>
+        <Choice>Papua New Guinea</Choice>
+    </Question>
+
+    <Question Correct="3" Id="11">
+        <Text>What is the only country of Southeast Asia to never have been ruled by a Western power?</Text>
+        <Choice>Cambodia</Choice>
+        <Choice>Laos</Choice>
+        <Choice>Thailand</Choice>
+        <Choice>Vietnam</Choice>
+    </Question>
+
+    <Question Correct="1" Id="12">
+        <Text>The Great Circle, at zero degrees latitude, is known by what name?</Text>
+        <Choice>Equator</Choice>
+        <Choice>Arctic Circle</Choice>
+        <Choice>Prime Meridian</Choice>
+        <Choice>Tropic of Cancer</Choice>
+    </Question>
+
+    <Question Correct="4" Id="13">
+        <Text>In 1991, Estonia, Latvia, and Lithuania officially gained independence from what former country?</Text>
+        <Choice>East Germany</Choice>
+        <Choice>Czechoslovakia</Choice>
+        <Choice>Poland</Choice>
+        <Choice>Soviet Union</Choice>
+    </Question>
+
+    <Question Correct="4" Id="14">
+        <Text>Which U.S. state capital is closer to the Atlantic Ocean?</Text>
+        <Choice>Sacramento</Choice>
+        <Choice>St. Louis</Choice>
+        <Choice>Boise</Choice>
+        <Choice>Albany</Choice>
+    </Question>
+
+    <Question Correct="1" Id="15">
+        <Text>Which country is connected to Sri Lanka by a chain of small islands called Adam's Bridge?</Text>
+        <Choice>India</Choice>
+        <Choice>Thailand</Choice>
+        <Choice>Malaysia</Choice>
+        <Choice>Pakistan</Choice>
+    </Question>
+
+    <Question Correct="2" Id="16">
+        <Text>Magyars are the people of which country?</Text>
+        <Choice>Austria</Choice>
+        <Choice>Hungary</Choice>
+        <Choice>Moldova</Choice>
+        <Choice>Romania</Choice>
+    </Question>
+
+    <Question Correct="1" Id="17">
+        <Text>Which American city was once known as New Amsterdam?</Text>
+        <Choice>New York City</Choice>
+        <Choice>Chicago</Choice>
+        <Choice>Boston</Choice>
+        <Choice>Washington DC</Choice>
+    </Question>
+
+    <Question Correct="3" Id="18">
+        <Text>Impressionist painting was developed by painters such as Monet and Renoir in which European country?</Text>
+        <Choice>Spain</Choice>
+        <Choice>Netherlands</Choice>
+        <Choice>France</Choice>
+        <Choice>Italy</Choice>
+    </Question>
+
+    <Question Correct="1" Id="19">
+        <Text>One of the world's largest potash deposits is located in Saskatchewan in which country?</Text>
+        <Choice>Canada</Choice>
+        <Choice>United States</Choice>
+        <Choice>Brazil</Choice>
+        <Choice>Norway</Choice>
+    </Question>
+
+    <Question Correct="2" Id="20">
+        <Text>Which Asian capital city located on the Han River?</Text>
+        <Choice>Beijing</Choice>
+        <Choice>Seoul</Choice>
+        <Choice>Tokyo</Choice>
+        <Choice>Singapore</Choice>
+    </Question>
+
+</Questions>
